@@ -23,17 +23,17 @@ int main(){
 /*
 Reflection:
 1. What I understood:
-This example helped me understand how classes and objects work in C++. I saw how attributes and functions are grouped together inside a class.
+I understood destructor runs automatically when an object is destroyed (usually when it goes out of scope).
 
 2. Difficulties:
-At first I was confused about how constructors and destructors are automatically called when objects are created and destroyed.
+I was not sure when exactly it triggers. After running the code, I saw it happens when the program is ending.
 
 3. Research:
-I reviewed the C++ constructor and destructor concept from the textbook and online examples.
+I searched “when destructor called C++ scope” to understand “out of scope”.
 
 4. AI Usage:
-I used ChatGPT to clarify syntax and ensure the code compiles correctly.
+I used ChatGPT to explain destructor purpose and confirm the syntax with ~ClassName().
 
 5. What I learned:
-I learned how objects are created from classes and how constructors, copy constructors, and destructors work in the object lifecycle.
+I learned destructors are used for cleanup and they run automatically.
 */
