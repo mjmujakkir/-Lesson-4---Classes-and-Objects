@@ -27,17 +27,17 @@ int main(){
 /*
 Reflection:
 1. What I understood:
-This example helped me understand how classes and objects work in C++. I saw how attributes and functions are grouped together inside a class.
+I understood constructor overloading means we can have more than one constructor with different parameters.
 
 2. Difficulties:
-At first I was confused about how constructors and destructors are automatically called when objects are created and destroyed.
+At first I thought two constructors with same name is not allowed, but I learned C++ chooses based on parameters.
 
 3. Research:
-I reviewed the C++ constructor and destructor concept from the textbook and online examples.
+I searched “constructor overloading C++” to understand how the compiler decides which one runs.
 
 4. AI Usage:
-I used ChatGPT to clarify syntax and ensure the code compiles correctly.
+I used ChatGPT to confirm the example and make sure both constructors compile.
 
 5. What I learned:
-I learned how objects are created from classes and how constructors, copy constructors, and destructors work in the object lifecycle.
+I learned the same class can support different ways to create objects (default vs custom).
 */
