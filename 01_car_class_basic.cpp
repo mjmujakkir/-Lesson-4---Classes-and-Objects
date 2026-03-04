@@ -28,17 +28,17 @@ int main(){
 /*
 Reflection:
 1. What I understood:
-This example helped me understand how classes and objects work in C++. I saw how attributes and functions are grouped together inside a class.
+I understood that a class is like a template and the object is the real thing we use in main. The functions inside the class show what the object can do.
 
 2. Difficulties:
-At first I was confused about how constructors and destructors are automatically called when objects are created and destroyed.
+My main confusion was private/public. I thought private means the class won’t work, but now I know private just means outside code can’t access it directly.
 
 3. Research:
-I reviewed the C++ constructor and destructor concept from the textbook and online examples.
+I searched “C++ class private public” and saw examples of member functions accessing class data.
 
 4. AI Usage:
-I used ChatGPT to clarify syntax and ensure the code compiles correctly.
+I used ChatGPT to explain the idea in simple words and to confirm the code compiles in OnlineGDB.
 
 5. What I learned:
-I learned how objects are created from classes and how constructors, copy constructors, and destructors work in the object lifecycle.
+I learned how to create an object and call functions using the dot operator.
 */
