@@ -31,17 +31,17 @@ int main(){
 /*
 Reflection:
 1. What I understood:
-This example helped me understand how classes and objects work in C++. I saw how attributes and functions are grouped together inside a class.
+I understood the copy constructor runs when we create a new object from an existing object (like Car c2(c1)).
 
 2. Difficulties:
-At first I was confused about how constructors and destructors are automatically called when objects are created and destroyed.
+I didn’t understand why it uses & (reference) at first. Now I know it avoids extra copying and prevents problems.
 
 3. Research:
-I reviewed the C++ constructor and destructor concept from the textbook and online examples.
+I searched “why copy constructor uses const reference” and read a short explanation.
 
 4. AI Usage:
-I used ChatGPT to clarify syntax and ensure the code compiles correctly.
+I used ChatGPT to explain when copy constructor is triggered and how to test it.
 
 5. What I learned:
-I learned how objects are created from classes and how constructors, copy constructors, and destructors work in the object lifecycle.
+I learned copy constructor is part of the object lifecycle and is important when duplicating objects.
 */
