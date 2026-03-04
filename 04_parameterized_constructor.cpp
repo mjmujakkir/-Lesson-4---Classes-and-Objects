@@ -3,7 +3,7 @@ Name: Md Mujakkir (MJ)
 Course: CSCI 272
 Lesson Number: Lesson 4
 Code Topic: Parameterized Constructor
-Date: 02/15/2026
+Date: 
 */
 
 #include <iostream>
