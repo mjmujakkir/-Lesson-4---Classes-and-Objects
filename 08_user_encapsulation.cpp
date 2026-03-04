@@ -29,17 +29,17 @@ int main(){
 /*
 Reflection:
 1. What I understood:
-This example helped me understand how classes and objects work in C++. I saw how attributes and functions are grouped together inside a class.
+I understood encapsulation means keeping data private (like username/password) and only using public functions to interact with it.
 
 2. Difficulties:
-At first I was confused about how constructors and destructors are automatically called when objects are created and destroyed.
+The slides showed a single & for the login check. I learned that for logical conditions it should be &&. Using && makes the condition correct.
 
 3. Research:
-I reviewed the C++ constructor and destructor concept from the textbook and online examples.
+I searched “difference between & and && in C++” and saw that && is for logical AND.
 
 4. AI Usage:
-I used ChatGPT to clarify syntax and ensure the code compiles correctly.
+I used ChatGPT to help me understand the operator difference and to keep the example working in OnlineGDB.
 
 5. What I learned:
-I learned how objects are created from classes and how constructors, copy constructors, and destructors work in the object lifecycle.
+I learned private members protect the data, and methods provide controlled access.
 */
