@@ -38,17 +38,17 @@ int main(){
 /*
 Reflection:
 1. What I understood:
-This example helped me understand how classes and objects work in C++. I saw how attributes and functions are grouped together inside a class.
+I understood that keeping balance private prevents direct changes from outside, and deposit/withdraw control how the balance changes.
 
 2. Difficulties:
-At first I was confused about how constructors and destructors are automatically called when objects are created and destroyed.
+I didn’t think about negative deposits or withdrawing too much at first. This example made me realize rules are important.
 
 3. Research:
-I reviewed the C++ constructor and destructor concept from the textbook and online examples.
+I searched “encapsulation bank account example C++” to see how people usually structure it.
 
 4. AI Usage:
-I used ChatGPT to clarify syntax and ensure the code compiles correctly.
+I used ChatGPT to help me write a simple test in main and to confirm the logic compiles.
 
 5. What I learned:
-I learned how objects are created from classes and how constructors, copy constructors, and destructors work in the object lifecycle.
+I learned encapsulation is not just hiding data, it’s also adding rules to protect the object’s state.
 */
