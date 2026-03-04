@@ -25,17 +25,17 @@ int main(){
 /*
 Reflection:
 1. What I understood:
-This example helped me understand how classes and objects work in C++. I saw how attributes and functions are grouped together inside a class.
+I understood that a parameterized constructor lets me set values at the moment I create the object.
 
 2. Difficulties:
-At first I was confused about how constructors and destructors are automatically called when objects are created and destroyed.
+I mixed up when to use = and () when creating objects. After running it, I understood the () passes arguments to constructor.
 
 3. Research:
-I reviewed the C++ constructor and destructor concept from the textbook and online examples.
+I searched “C++ parameterized constructor example” and practiced one simple example.
 
 4. AI Usage:
-I used ChatGPT to clarify syntax and ensure the code compiles correctly.
+I used ChatGPT to check my understanding and keep the code simple for OnlineGDB.
 
 5. What I learned:
-I learned how objects are created from classes and how constructors, copy constructors, and destructors work in the object lifecycle.
+I learned how to pass values into the constructor to customize the object.
 */
