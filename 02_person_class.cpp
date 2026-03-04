@@ -28,17 +28,17 @@ int main(){
 /*
 Reflection:
 1. What I understood:
-This example helped me understand how classes and objects work in C++. I saw how attributes and functions are grouped together inside a class.
+I understood how a class can store related information (name, age, gender) and one function can use them to print a message.
 
 2. Difficulties:
-At first I was confused about how constructors and destructors are automatically called when objects are created and destroyed.
+When I copied from slides before, I saw weird quote issues sometimes. I learned that some slide quotes are not normal C++ quotes.
 
 3. Research:
-I reviewed the C++ constructor and destructor concept from the textbook and online examples.
+I searched “smart quotes C++ compile error” because code from slides sometimes breaks.
 
 4. AI Usage:
-I used ChatGPT to clarify syntax and ensure the code compiles correctly.
+I used ChatGPT to help me check the condition and make sure the quotes are normal.
 
 5. What I learned:
-I learned how objects are created from classes and how constructors, copy constructors, and destructors work in the object lifecycle.
+I learned to always re-check code after copying from slides because formatting can cause errors.
 */
