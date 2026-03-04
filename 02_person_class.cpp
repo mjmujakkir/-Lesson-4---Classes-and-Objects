@@ -11,8 +11,8 @@ using namespace std;
 
 class Person{
 public:
-    string name="Maksi";
-    int age=29;
+    string name="MJ";
+    int age=25;
     char gender='M';
 
     void introduce(){
